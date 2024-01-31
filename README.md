@@ -12,6 +12,7 @@
 <li>Dependency Injection</li>
 <li>Swagger — OpenAPI</li>
 <li>Generic Repository Pattern</li>
+<li>MSSQL</li>
 <li>LINQ (Language-Integrated Query)</li>
 <li>Exception Handling</li>
 <li>NUnit Test Project</li>
